@@ -6,7 +6,7 @@ This repository contains the implementation of the **Dynamic Stochastic Charging
 
 ## Key Features
 
-- **Dynamic Scheduling:** The DSCO framework adjusts EV charging schedules in real-time, taking into account fluctuating electricity prices and grid demands. This helps minimize costs and prevents grid overloads.
+- **Dynamic Scheduling:** The DSCO framework adjusts the  EV charging schedules in real-time, taking into account fluctuating electricity prices and grid demands. This helps minimize costs and prevents grid overloads.
   
 - **V2G and G2V Integration:** Efficiently handles both charging (G2V) and discharging (V2G) operations, enabling EVs to not only draw power from the grid but also supply it back during peak demand periods.
 
